@@ -1,0 +1,10 @@
+P:\C#\SiT3\SiT3\bin\Debug\SiT3.exe.config
+P:\C#\SiT3\SiT3\bin\Debug\SiT3.exe
+P:\C#\SiT3\SiT3\bin\Debug\SiT3.pdb
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.csprojAssemblyReference.cache
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.Form1.resources
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.Properties.Resources.resources
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.csproj.GenerateResource.cache
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.csproj.CoreCompileInputs.cache
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.exe
+P:\C#\SiT3\SiT3\obj\Debug\SiT3.pdb

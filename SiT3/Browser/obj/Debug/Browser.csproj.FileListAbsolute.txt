@@ -1,0 +1,10 @@
+P:\C#\SiT3\Browser\bin\Debug\Browser.exe.config
+P:\C#\SiT3\Browser\bin\Debug\Browser.exe
+P:\C#\SiT3\Browser\bin\Debug\Browser.pdb
+P:\C#\SiT3\Browser\obj\Debug\Browser.csprojAssemblyReference.cache
+P:\C#\SiT3\Browser\obj\Debug\Browser.Form1.resources
+P:\C#\SiT3\Browser\obj\Debug\Browser.Properties.Resources.resources
+P:\C#\SiT3\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+P:\C#\SiT3\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+P:\C#\SiT3\Browser\obj\Debug\Browser.exe
+P:\C#\SiT3\Browser\obj\Debug\Browser.pdb
